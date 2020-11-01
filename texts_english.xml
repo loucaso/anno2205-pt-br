@@ -78,63 +78,63 @@
     </Text>
     <Text>
       <GUID>100688</GUID>
-      <Text>Find [CONDITION_SOURCE_OBJECT_ASSET]</Text>
+      <Text>Procure por [CONDITION_SOURCE_OBJECT_ASSET]</Text>
     </Text>
     <Text>
       <GUID>120399</GUID>
-      <Text>Find [CONDITION_SOURCE_OBJECT_ASSET] on any island</Text>
+      <Text>Procure por [CONDITION_SOURCE_OBJECT_ASSET] em qualquer ilha</Text>
     </Text>
     <Text>
       <GUID>120611</GUID>
-      <Text>Find [CONDITION_SOURCE_OBJECT_ASSET] in any crater</Text>
+      <Text>Procure por [CONDITION_SOURCE_OBJECT_ASSET] em qualquer cratera</Text>
     </Text>
     <Text>
       <GUID>120744</GUID>
-      <Text>Find [CONDITION_SOURCE_OBJECT_ASSET] on land</Text>
+      <Text>Procure por [CONDITION_SOURCE_OBJECT_ASSET] na ilha</Text>
     </Text>
     <Text>
       <GUID>120745</GUID>
-      <Text>Find [CONDITION_SOURCE_OBJECT_ASSET] out at sea</Text>
+      <Text>Procure por [CONDITION_SOURCE_OBJECT_ASSET] no mar</Text>
     </Text>
     <Text>
       <GUID>120746</GUID>
-      <Text>Find [CONDITION_SOURCE_OBJECT_ASSET] along the coast</Text>
+      <Text>Procure por [CONDITION_SOURCE_OBJECT_ASSET] ao longo da costa</Text>
     </Text>
     <Text>
       <GUID>108994</GUID>
-      <Text>Find [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
+      <Text>Procure por [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
     </Text>
     <Text>
       <GUID>100689</GUID>
-      <Text>Recover all [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
+      <Text>Recupere todos[CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
     </Text>
     <Text>
       <GUID>116456</GUID>
-      <Text>Collect the monitored &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt; with your vehicle</Text>
+      <Text>Colete o monitorado &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt; com seu veículo</Text>
     </Text>
     <Text>
       <GUID>119899</GUID>
-      <Text>Activate &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
+      <Text>Ativar &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>120074</GUID>
-      <Text>Remove &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
+      <Text>Remover &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>120747</GUID>
-      <Text>Find [CONDITION_SOURCE_OBJECT_ASSET] at the glacier channels</Text>
+      <Text>Procure por [CONDITION_SOURCE_OBJECT_ASSET] nos canais da geleira</Text>
     </Text>
     <Text>
       <GUID>120748</GUID>
-      <Text>Find [CONDITION_SOURCE_OBJECT_ASSET] on the ice floes</Text>
+      <Text>Procure por [CONDITION_SOURCE_OBJECT_ASSET] nos blocos de gelo</Text>
     </Text>
     <Text>
       <GUID>103250</GUID>
-      <Text>Load your vehicle with [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] from your spaceport</Text>
+      <Text>Carregue seu veículo com [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] do seu porto espacial</Text>
     </Text>
     <Text>
       <GUID>108995</GUID>
-      <Text>Load your vehicle with [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] from your spaceport [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
+      <Text>Load your vehicle with [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] do seu porto espacial [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
     </Text>
     <Text>
       <GUID>103251</GUID>
@@ -142,75 +142,75 @@
     </Text>
     <Text>
       <GUID>108996</GUID>
-      <Text>Deliver the cargo to [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
+      <Text>Entregue a carga para [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
     </Text>
     <Text>
       <GUID>108477</GUID>
-      <Text>Pick up the cargo at &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
+      <Text>Pegar a carga em &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>108997</GUID>
-      <Text>Pick up the cargo at [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
+      <Text>Pegar a carga em [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
     </Text>
     <Text>
       <GUID>116458</GUID>
-      <Text>Deliver the cargo to the monitored &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
+      <Text>Entregar a carga para o monitorado &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>116462</GUID>
-      <Text>Pick up the cargo at the monitored &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
+      <Text>Pegue a carga no local monitorado &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_SOURCE_OBJECT_ASSET]&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>105099</GUID>
-      <Text>Destroy [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]</Text>
+      <Text>Destruir [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]</Text>
     </Text>
     <Text>
       <GUID>108999</GUID>
-      <Text>Destroy [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
+      <Text>Destruir [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
     </Text>
     <Text>
       <GUID>108502</GUID>
-      <Text>Use the drone to destroy [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]</Text>
+      <Text>Use o drone para destruir [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]</Text>
     </Text>
     <Text>
       <GUID>109001</GUID>
-      <Text>Use the drone to destroy [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
+      <Text>Use o drone para destruir [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]</Text>
     </Text>
     <Text>
       <GUID>116459</GUID>
-      <Text>Use the drone to destroy the monitored [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]</Text>
+      <Text>Use o drone para destruir o monitorado [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]</Text>
     </Text>
     <Text>
       <GUID>120073</GUID>
-      <Text>Attach [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to your [COMMANDO_VEHICLE]</Text>
+      <Text>Anexe [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] ao seu [COMMANDO_VEHICLE]</Text>
     </Text>
     <Text>
       <GUID>100787</GUID>
-      <Text>News Room</Text>
+      <Text>Sala de Notícias</Text>
     </Text>
     <Text>
       <GUID>100549</GUID>
-      <Text>Strategy Map</Text>
+      <Text>Mapa de Estratégia</Text>
     </Text>
     <Text>
       <GUID>100788</GUID>
-      <Text>Assignment center</Text>
+      <Text>Centro de Atribuições</Text>
     </Text>
     <Text>
       <GUID>100789</GUID>
-      <Text>Corporate Profile</Text>
+      <Text>Perfil Corporativo</Text>
     </Text>
     <Text>
       <GUID>100791</GUID>
-      <Text>global storage</Text>
+      <Text>armazenamento global</Text>
     </Text>
     <Text>
       <GUID>100842</GUID>
-      <Text>Council Menu</Text>
+      <Text>Menu do Conselho</Text>
     </Text>
     <Text>
       <GUID>103065</GUID>
-      <Text>Corporate Profile</Text>
+      <Text>Perfil Corporativo</Text>
     </Text>
     <Text>
       <GUID>103066</GUID>
@@ -218,27 +218,27 @@
     </Text>
     <Text>
       <GUID>103081</GUID>
-      <Text>docks</Text>
+      <Text>Docas</Text>
     </Text>
     <Text>
       <GUID>108437</GUID>
-      <Text>voting</Text>
+      <Text>Votação</Text>
     </Text>
     <Text>
       <GUID>117118</GUID>
-      <Text>space station</Text>
+      <Text>estação espacial</Text>
     </Text>
     <Text>
       <GUID>102760</GUID>
-      <Text>Sink the Eradicator ship</Text>
+      <Text>Afunde o navio Erradicador</Text>
     </Text>
     <Text>
       <GUID>102761</GUID>
-      <Text>Destroy 6 Research Labs</Text>
+      <Text>Destruir 6 laboratórios de pesquisa</Text>
     </Text>
     <Text>
       <GUID>102762</GUID>
-      <Text>Sink 50 Charger Class ships</Text>
+      <Text>Afunde 50 navios classe charger</Text>
     </Text>
     <Text>
       <GUID>100105</GUID>
@@ -250,11 +250,11 @@
     </Text>
     <Text>
       <GUID>100106</GUID>
-      <Text>Fulfill the Assignment [CONDITION_EVENT_CONTEXT].</Text>
+      <Text>Cumprir a Atribuição [CONDITION_EVENT_CONTEXT].</Text>
     </Text>
     <Text>
       <GUID>100107</GUID>
-      <Text>Open the [CONDITION_EVENT_CONTEXT] menu</Text>
+      <Text>Abra o [CONDITION_EVENT_CONTEXT] menu</Text>
     </Text>
     <Text>
       <GUID>100108</GUID>
@@ -262,7 +262,7 @@
     </Text>
     <Text>
       <GUID>100130</GUID>
-      <Text>Find [CONDITION_EVENT_CONTEXT].</Text>
+      <Text>Procure por [CONDITION_EVENT_CONTEXT].</Text>
     </Text>
     <Text>
       <GUID>100131</GUID>
@@ -274,11 +274,11 @@
     </Text>
     <Text>
       <GUID>102668</GUID>
-      <Text>Destroy [CONDITION_EVENT_CONTEXT]</Text>
+      <Text>Destrua [CONDITION_EVENT_CONTEXT]</Text>
     </Text>
     <Text>
       <GUID>119831</GUID>
-      <Text>Unlock [CONDITION_EVENT_CONTEXT]</Text>
+      <Text>Destrave [CONDITION_EVENT_CONTEXT]</Text>
     </Text>
     <Text>
       <GUID>120062</GUID>
@@ -286,7 +286,7 @@
     </Text>
     <Text>
       <GUID>100725</GUID>
-      <Text>Collect [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_SOURCE_OBJECT_ASSET] with your vehicles</Text>
+      <Text>Colete [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_SOURCE_OBJECT_ASSET] com seus veículos</Text>
     </Text>
     <Text>
       <GUID>100726</GUID>
@@ -294,11 +294,11 @@
     </Text>
     <Text>
       <GUID>105899</GUID>
-      <Text>Deliver &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS]&lt;/font&gt; to [CONDITION_SOURCE_OBJECT_ASSET]</Text>
+      <Text>Entregue &lt;font [MINIMAPDOT_COLOR 2001947]&gt;[CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS]&lt;/font&gt; para [CONDITION_SOURCE_OBJECT_ASSET]</Text>
     </Text>
     <Text>
       <GUID>105182</GUID>
-      <Text>Hit [CONDITION_SOURCE_OBJECT_ASSET] with [CONDITION_SPECIAL_ACTION_USED_OBJECT_NAME]</Text>
+      <Text>Atinja [CONDITION_SOURCE_OBJECT_ASSET] com [CONDITION_SPECIAL_ACTION_USED_OBJECT_NAME]</Text>
     </Text>
     <Text>
       <GUID>105183</GUID>
@@ -578,11 +578,11 @@
     </Text>
     <Text>
       <GUID>100805</GUID>
-      <Text>Attract a population of [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]</Text>
+      <Text>Atraia uma população de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]</Text>
     </Text>
     <Text>
       <GUID>100806</GUID>
-      <Text>Attract a population of [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]</Text>
+      <Text>Atraia uma população de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]</Text>
     </Text>
     <Text>
       <GUID>100807</GUID>
@@ -590,7 +590,7 @@
     </Text>
     <Text>
       <GUID>102933</GUID>
-      <Text>Destroy [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]</Text>
+      <Text>Destuia [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]</Text>
     </Text>
     <Text>
       <GUID>108598</GUID>
@@ -686,7 +686,7 @@
     </Text>
     <Text>
       <GUID>115443</GUID>
-      <Text>Build and connect [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]</Text>
+      <Text>Construa e conecte a [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]</Text>
     </Text>
     <Text>
       <GUID>115444</GUID>
@@ -1054,7 +1054,7 @@
     </Text>
     <Text>
       <GUID>105211</GUID>
-      <Text>"Developing a spaceport will be a great deal of work. Let's call in the professionals."</Text>
+      <Text>"O desenvolvimento de um porto espacial vai dar muito trabalho. Vamos chamar os profissionais."</Text>
     </Text>
     <Text>
       <GUID>105387</GUID>
@@ -1082,7 +1082,7 @@
     </Text>
     <Text>
       <GUID>117970</GUID>
-      <Text>Build [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] and connect it to the [GUIDNAME 1000157]</Text>
+      <Text>Construa uma [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] e conecte a [GUIDNAME 1000157]</Text>
     </Text>
     <Text>
       <GUID>105212</GUID>
@@ -6482,7 +6482,7 @@
     </Text>
     <Text>
       <GUID>120724</GUID>
-      <Text>Build and connect [GUIDNAME 1000123]</Text>
+      <Text>Construa e conecte a [GUIDNAME 1000123]</Text>
     </Text>
     <Text>
       <GUID>120726</GUID>
@@ -17102,7 +17102,7 @@
     </Text>
     <Text>
       <GUID>117640</GUID>
-      <Text>A tradução do jogo esta caminhando bem divagar pois estou traduzindo o jogo praticamente sozinho. Conto com a compreensão de todos &lt;br&gt;&lt;br&gt;Se alguem estiver disposto a ajudar é só entrar em contato comigo pelo Email: gilson.gbj@gmail.com.</Text>
+      <Text>A tradução do jogo esta caminhando bem divagar, Conto com a compreensão de todos &lt;br&gt;&lt;br&gt;Traduzido por FLAVIO LOKO</Text>
     </Text>
     <Text>
       <GUID>118125</GUID>
@@ -43862,7 +43862,7 @@
     </Text>
     <Text>
       <GUID>108507</GUID>
-      <Text>English</Text>
+      <Text>Portugues</Text>
     </Text>
     <Text>
       <GUID>108508</GUID>
@@ -43926,7 +43926,7 @@
     </Text>
     <Text>
       <GUID>1000005</GUID>
-      <Text>Residence</Text>
+      <Text>Residência</Text>
     </Text>
     <Text>
       <GUID>1000152</GUID>
@@ -43958,7 +43958,7 @@
     </Text>
     <Text>
       <GUID>1000182</GUID>
-      <Text>Infodrome</Text>
+      <Text>Infodromo</Text>
     </Text>
     <Text>
       <GUID>1000181</GUID>
@@ -43974,7 +43974,7 @@
     </Text>
     <Text>
       <GUID>1000169</GUID>
-      <Text>Rice Farm</Text>
+      <Text>Fazenda de Arroz</Text>
     </Text>
     <Text>
       <GUID>1000170</GUID>
@@ -43982,7 +43982,7 @@
     </Text>
     <Text>
       <GUID>1000212</GUID>
-      <Text>Sunflower Farm</Text>
+      <Text>Fazenda de Girassol</Text>
     </Text>
     <Text>
       <GUID>1000112</GUID>
@@ -44090,7 +44090,7 @@
     </Text>
     <Text>
       <GUID>1000366</GUID>
-      <Text>Sunflower Cropland</Text>
+      <Text>Lavoura de Girassol</Text>
     </Text>
     <Text>
       <GUID>1000367</GUID>
@@ -48538,7 +48538,7 @@
     </Text>
     <Text>
       <GUID>3000579</GUID>
-      <Text>01. Work In Progress</Text>
+      <Text>01.Trabalho em progresso</Text>
     </Text>
     <Text>
       <GUID>3000580</GUID>
@@ -55882,7 +55882,7 @@
     </Text>
     <Text>
       <GUID>7000043</GUID>
-      <Text>Sunflower Farm</Text>
+      <Text>Fazenda de Girassol</Text>
     </Text>
     <Text>
       <GUID>7000253</GUID>
@@ -55970,7 +55970,7 @@
     </Text>
     <Text>
       <GUID>7000262</GUID>
-      <Text>Sunflower Cropland</Text>
+      <Text>Lavoura de Girassol</Text>
     </Text>
     <Text>
       <GUID>7000313</GUID>
@@ -56318,15 +56318,15 @@
     </Text>
     <Text>
       <GUID>7000379</GUID>
-      <Text>Rice Farm</Text>
+      <Text>Fazenda de Arroz</Text>
     </Text>
     <Text>
       <GUID>7000380</GUID>
-      <Text>Rice Farm</Text>
+      <Text>Fazenda de Arroz</Text>
     </Text>
     <Text>
       <GUID>7000433</GUID>
-      <Text>Rice Farm</Text>
+      <Text>Fazenda de Arroz</Text>
     </Text>
     <Text>
       <GUID>7000145</GUID>
